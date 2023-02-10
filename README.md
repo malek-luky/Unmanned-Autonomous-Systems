@@ -1,0 +1,1 @@
+During a 3-week intensive project at DTU Autonomous Robot Hall, we sedigned in Simulink and fine-tuned a PID controller for a drone known as the "Crazy Fly". The first two weeks were focused on theoretical exercises, but in the final week, we got hands-on experience deploying our software on the drones
